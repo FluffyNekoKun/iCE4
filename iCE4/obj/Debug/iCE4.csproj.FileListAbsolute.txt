@@ -1,0 +1,7 @@
+C:\Users\spenc\Documents\Visual Studio 2017\Projects\iCE4\iCE4\bin\Debug\iCE4.exe.config
+C:\Users\spenc\Documents\Visual Studio 2017\Projects\iCE4\iCE4\bin\Debug\iCE4.exe
+C:\Users\spenc\Documents\Visual Studio 2017\Projects\iCE4\iCE4\bin\Debug\iCE4.pdb
+C:\Users\spenc\Documents\Visual Studio 2017\Projects\iCE4\iCE4\obj\Debug\iCE4.csprojResolveAssemblyReference.cache
+C:\Users\spenc\Documents\Visual Studio 2017\Projects\iCE4\iCE4\obj\Debug\iCE4.csproj.CoreCompileInputs.cache
+C:\Users\spenc\Documents\Visual Studio 2017\Projects\iCE4\iCE4\obj\Debug\iCE4.exe
+C:\Users\spenc\Documents\Visual Studio 2017\Projects\iCE4\iCE4\obj\Debug\iCE4.pdb
